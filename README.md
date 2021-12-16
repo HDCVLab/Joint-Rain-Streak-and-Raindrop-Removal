@@ -1,6 +1,3 @@
-# joint-rain-streak-and-raindrop-removal
-
-
 
 # Dual Attention-In-Attention Model for Joint Rain Streak and Raindrop Removal (TIP2021)
 
