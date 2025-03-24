@@ -6,14 +6,14 @@ __JRARD dataset__
 
 
 ```
-https://drive.google.com/file/d/1H45JwRkeCusP7skAqBd8pUQ1IK6kysSi/view
+https://pan.baidu.com/s/1RHIYDtjRjPYcvMGCK0WyAw?pwd=x69k   (password: x69k)
 ```
 
 __JRARD results__
 
 
 ```
-https://drive.google.com/file/d/1Fs2LYrb-ZYgu5ztODpohuGA_kO_pQv0w/view
+https://pan.baidu.com/s/1MbLRJvrFApj6i4IJAeJ8OA?pwd=gktb  (password: gktb)
 ```
 
 
@@ -21,7 +21,7 @@ __Raindrop results__
 
 
 ```
-https://drive.google.com/drive/folders/1OU_PNQIvnyR9S13ERa8cZq67fdK0TUzD?usp=sharing
+https://pan.baidu.com/s/1U1jKg6csTC74tNnOXx02QA?pwd=8g7n (password: 8g7n)
 ```
 
 
